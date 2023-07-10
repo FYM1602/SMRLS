@@ -1,5 +1,5 @@
 # SMRLS
-Selective Memory Recursive Least Squares (SMRLS) is an recursive least squares (RLS) based real-time training algorithm for linearly parameterized approximators. This project is a demo for radial basis function neural network (RBFNN) based real-time function approximation with SMRLS. The function of each file is explained as follows: 
+Selective Memory Recursive Least Squares (SMRLS) is a recursive least squares (RLS) based real-time training algorithm for linearly parameterized approximators. This project is a demo for radial basis function neural network (RBFNN) based real-time function approximation with SMRLS. The function of each file is explained as follows: 
 1. approximated_function.m -- used to set the function to be approximated by the RBFNN
 2. RBFNN.m -- return the output of an RBFNN
 3. centers.m -- used to set the neuron centers of the RBFNN
